@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-06T23:27:25.802Z'
-dateModified: '2015-12-06T23:27:02.012Z'
+datePublished: '2015-12-06T23:28:16.994Z'
+dateModified: '2015-12-06T23:28:06.578Z'
 title: "Eyvind Earle influenced my childhood and I didn't even know it"
 author: []
 authors: []
