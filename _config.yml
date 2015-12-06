@@ -1,7 +1,7 @@
 name: stabbyrogue
 favicon: null
-layout_spectrum: 0.4001495165284723
-typography_spectrum: 0.9139172479044646
+layout_spectrum: 0.19057
+typography_spectrum: 0.1944
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.987385242478922
+  brandStrength: 1
   lightness: 0.6674942788667977
-  saturation: 0.14590932917781174
+  saturation: 0.125
   rhythmicContrast: 0.2997935749590397
 purpose: []
